@@ -1,0 +1,1 @@
+# mwe_animated_texture_atlas
