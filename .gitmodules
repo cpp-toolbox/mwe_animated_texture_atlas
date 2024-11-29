@@ -22,3 +22,36 @@
 [submodule "src/graphics/animated_texture_atlas"]
 	path = src/graphics/animated_texture_atlas
 	url = git@github.com:cpp-toolbox/animated_texture_atlas.git
+[submodule "src/graphics/texture_packer"]
+	path = src/graphics/texture_packer
+	url = git@github.com:cpp-toolbox/texture_packer.git
+[submodule "src/graphics/batcher"]
+	path = src/graphics/batcher
+	url = git@github.com:cpp-toolbox/batcher.git
+[submodule "src/graphics/vertex_geometry"]
+	path = src/graphics/vertex_geometry
+	url = git@github.com:cpp-toolbox/vertex_geometry.git
+[submodule "src/graphics/fps_camera"]
+	path = src/graphics/fps_camera
+	url = git@github.com:cpp-toolbox/fps_camera.git
+[submodule "src/graphics/transform"]
+	path = src/graphics/transform
+	url = git@github.com:cpp-toolbox/transform.git
+[submodule "src/input/mouse"]
+	path = src/input/mouse
+	url = git@github.com:cpp-toolbox/mouse.git
+[submodule "src/utility/glfw_lambda_callback_manager"]
+	path = src/utility/glfw_lambda_callback_manager
+	url = git@github.com:cpp-toolbox/glfw_lambda_callback_manager.git
+[submodule "src/utility/texture_packer_model_loading"]
+	path = src/utility/texture_packer_model_loading
+	url = git@github.com:cpp-toolbox/texture_packer_model_loading.git
+[submodule "src/utility/rigged_model_loading"]
+	path = src/utility/rigged_model_loading
+	url = git@github.com:cpp-toolbox/rigged_model_loading.git
+[submodule "src/utility/model_loading"]
+	path = src/utility/model_loading
+	url = git@github.com:cpp-toolbox/model_loading.git
+[submodule "src/graphics/draw_info"]
+	path = src/graphics/draw_info
+	url = git@github.com:cpp-toolbox/draw_info.git

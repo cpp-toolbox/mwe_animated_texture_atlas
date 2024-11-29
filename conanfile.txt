@@ -1,10 +1,11 @@
 [requires]
 glad/0.1.36
 glfw/3.4
-stb/cci.20240531
+stb/cci.20230920
 glm/cci.20230113
 nlohmann_json/3.11.3
 spdlog/1.14.1
+assimp/5.4.3
 
 [generators]
 CMakeDeps

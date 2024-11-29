@@ -1,0 +1,2 @@
+[2024-11-23 01:35:09.097] [shader cache] [info] Binding vertex attribute xyz_position
+[2024-11-23 01:35:09.097] [shader cache] [info] Binding vertex attribute passthrough_texture_coordinate
