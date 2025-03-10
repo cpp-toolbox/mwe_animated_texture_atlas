@@ -1,6 +1,3 @@
-[submodule "scripts"]
-	path = scripts
-	url = git@github.com:cpp-toolbox/scripts.git
 [submodule "src/graphics/texture_atlas"]
 	path = src/graphics/texture_atlas
 	url = git@github.com:cpp-toolbox/texture_atlas.git
@@ -55,3 +52,18 @@
 [submodule "src/graphics/draw_info"]
 	path = src/graphics/draw_info
 	url = git@github.com:cpp-toolbox/draw_info.git
+[submodule "src/utility/print_utils"]
+	path = src/utility/print_utils
+	url = git@github.com:cpp-toolbox/print_utils.git
+[submodule "src/utility/glm_printing"]
+	path = src/utility/glm_printing
+	url = git@github.com:cpp-toolbox/glm_printing.git
+[submodule "src/utility/fs_utils"]
+	path = src/utility/fs_utils
+	url = git@github.com:cpp-toolbox/fs_utils.git
+[submodule "src/utility/unique_id_generator"]
+	path = src/utility/unique_id_generator
+	url = git@github.com:cpp-toolbox/unique_id_generator.git
+[submodule "scripts"]
+	path = scripts
+	url = git@github.com:cpp-toolbox/scripts.git

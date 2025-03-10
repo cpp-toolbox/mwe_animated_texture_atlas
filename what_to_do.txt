@@ -1,2 +1,0 @@
-add in the texture packer submodule in graphics
-add in the batcher submodule in graphics
